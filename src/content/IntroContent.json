@@ -1,0 +1,13 @@
+{
+  "title": "A.P. Industries",
+  "text": "Arvind Singh and Family at your service to produce the best quality clothes.",
+  "button": [
+    {
+      "title": "Explore"
+    },
+    {
+      "title": "Learn more",
+      "color": "#fff"
+    }
+  ]
+}
