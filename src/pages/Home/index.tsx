@@ -35,14 +35,14 @@ const Home = () => {
         content={AboutContent.text}
         section={AboutContent.section}
         icon="yarn5.jpeg"
-        id="about"
+        id="yarn"
       />
       <ContentBlock
         type="right"
         title={MissionContent.title}
         content={MissionContent.text}
         icon="cloth5.jpeg"
-        id="mission"
+        id="knitting"
       />
       <Contact
         title={ContactContent.title}
